@@ -6,12 +6,12 @@ body:before {
     content: "http://skbio.org";
     text-align: right;
     color: #259D57;
-    position: fixed;
+    position: absolute;
     top: 0px;
     width: 100%;
     padding-right: 42px;
     padding-top: 74px;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .supio {
