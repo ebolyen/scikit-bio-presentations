@@ -1,3 +1,19 @@
+body {
+    background: transparent url("assets/logo.svg") no-repeat scroll right 40px top 20px / 300px auto;
+}
+
+body:before {
+    content: "http://skbio.org";
+    text-align: right;
+    color: #259D57;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    padding-right: 42px;
+    padding-top: 74px;
+    font-size: 22px;
+}
+
 .supio {
     color: #259D57;
     line-height:2em; 
