@@ -1,0 +1,4 @@
+scikit-bio
+IPython[notebook]
+pyaml
+scikit-learn
