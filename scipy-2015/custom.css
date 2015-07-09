@@ -1,5 +1,5 @@
 body {
-    background: transparent url("assets/logo.svg") no-repeat scroll right 40px top 20px / 300px auto;
+    background: transparent url("assets/logo.svg") no-repeat scroll right 58px top 20px / 300px auto;
 }
 
 body:before {
@@ -9,7 +9,7 @@ body:before {
     position: absolute;
     top: 0px;
     width: 100%;
-    padding-right: 42px;
+    padding-right: 60px;
     padding-top: 74px;
     font-size: 20px;
 }
