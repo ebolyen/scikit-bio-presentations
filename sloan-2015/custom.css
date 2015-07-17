@@ -1,9 +1,4 @@
-body {
-    background: transparent url("assets/logo.svg") no-repeat scroll right 58px top 20px / 300px auto;
-}
-
 body:before {
-    content: "http://skbio.org";
     text-align: right;
     color: #259D57;
     position: absolute;
